@@ -1,0 +1,6 @@
+{
+  "name": "Speed Reader",
+  "description": "An optimized application for rapid serial visual presentation (RSVP) reading, allowing text pasting and camera-based OCR via Gemini API.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
